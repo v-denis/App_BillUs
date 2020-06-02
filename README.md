@@ -2,6 +2,7 @@
 This application will help you divide total bill with your friends in restaurant, cafe or bar. You can paste the amount of the discount and tips for service, and also can choose the amount of persons.
 
 
+
 ### Presentation
 <p align="center">
     <img src="/gifs/billus_gif1.gif" height="400" align="left">
@@ -16,6 +17,7 @@ This application will help you divide total bill with your friends in restaurant
 - Xcode version 11.2.1+
 - Swift 5
 - iOS 13.0+
+- Russian language
 
 ### Functionality
 - Simple to enter bill amount
