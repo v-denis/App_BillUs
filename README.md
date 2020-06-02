@@ -4,9 +4,9 @@ This application will help you divide total bill with your friends in restaurant
 
 ### Presentation
 <p align="center">
-    <img src="https://github.com/v-denis/App_BillUs/tree/master/gifs/billus_gif1.gif" height="400" align="left">
+    <img src="/gifs/billus_gif1.gif" height="400" align="left">
     <img height="400" src="/gifs/billus_gif2.gif">
-    <img src="https://github.com/v-denis/App_BillUs/tree/master/gifs/billus_gif3.gif" height="400" align="right">
+    <img src="/gifs/billus_gif3.gif" height="400" align="right">
 </p> 
 
 
