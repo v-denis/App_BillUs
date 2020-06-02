@@ -1,5 +1,15 @@
 ### App_BillUs
-This application will help you divide total bill with your friends in restaurant, cafe or bar
+This application will help you divide total bill with your friends in restaurant, cafe or bar. You can paste the amount of the discount and tips for service, and also can choose the amount of persons.
+
+
+### Presentation
+<p align="center">
+    <img src="billus_gif1.gif" height="400" align="left">
+    <img height="400" src="billus_gif2.gif">
+    <img src="billus_gif3.gif" height="400" align="right">
+</p> 
+
+
 
 
 ### Requirements
@@ -17,9 +27,4 @@ This application will help you divide total bill with your friends in restaurant
 ### Features
 - Only simple calculations inside :)
 
-### The app
-<p align="center">
-    <img src="___" height="400" align="left">
-    <img height="400" src="___">
-    <img src="___" height="400" align="right">
-</p> 
+
